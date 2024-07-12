@@ -2,7 +2,7 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-
+#change1
 ############################################
 #
 # This is need for earlier builds of msysgit that does not have it on by
